@@ -41,8 +41,11 @@ The initial analysis showed Thomas High School ranking second among all high sch
 How replacing the ninth-grade scores affects the following:
 
 Avg. Math Score per Grade per School 
+
 ![image](https://user-images.githubusercontent.com/100803302/160467587-40ad352d-4e1e-475e-84a2-51b9d2350d46.png)
+
 Avg. Reading Score per Grade per School
+
 ![image](https://user-images.githubusercontent.com/100803302/160467656-7f1a50a6-88e7-4c60-924d-9e3eaad36386.png)
 
 The scores by school spending per student, by school size, and by school type
@@ -50,7 +53,8 @@ The scores by school spending per student, by school size, and by school type
 ![image](https://user-images.githubusercontent.com/100803302/160467710-a48df60b-394b-47f1-9dc9-ddbd06cf86c3.png)
  ![image](https://user-images.githubusercontent.com/100803302/160467743-a078cc34-8324-4801-9f7e-ec0f9217008b.png)
 
-Summary
+Summary:
+
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 1.	After re-calculating the district-wide overall passing rate for reading and math, following the update to the Thomas High School ninth grade reading and math scores, there was no significant difference.  The change was less than 1%.  
